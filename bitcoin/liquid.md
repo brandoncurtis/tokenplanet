@@ -1,6 +1,12 @@
 <!-- TITLE: Blockstream Liquid Sidechain -->
 <!-- SUBTITLE: A quick summary of Liquid -->
 
+
+- https://blockstream.com/assets/downloads/strong-federations.pdf
+- https://elementsproject.org/elements-code-tutorial/overview
+- https://blockstream.com/elements/
+
+
 ## News
 https://blockstream.com/2018/11/06/liquid-full-node-and-wallet-release/
 https://blockstream.com/2018/08/02/accelerating-liquid-adoption-liquid-block-explorer.html
