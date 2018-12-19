@@ -1,7 +1,7 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-# Lightning Wiki
-Here is some stuff about the Lightning Network.
+# Welcome
+Welcome to the wiki!
 
-Wiki.js looks pretty cool.
+This wiki is powered by Wiki.js.  It stores content as Markdown files in GitHub.  That is pretty cool.
