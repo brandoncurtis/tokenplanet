@@ -1,7 +1,10 @@
 <!-- TITLE: Decred -->
 <!-- SUBTITLE: A quick summary of Decred -->
 
-
+# Statistics
+- https://dcrstats.com/
+- https://mainnet.decred.org
+- https://stats.decred.org/
 # Ticketsplitting
 
 - https://github.com/matheusd/dcr-split-ticket-matcher/blob/master/docs/building.md
