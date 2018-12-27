@@ -65,3 +65,7 @@ if you are a Linux user and you have the Decred Brasil stakepool set up in Decre
 config, load from decrediton, participate
 and that should do it for you
 
+## decredvoting.com
+https://decredvoting.com/ticketsplitting
+
+`dcr-split-ticket-matcher/dist/release/linux-x86_64/split-ticket-buyer$ ./splitticketbuyergui --matcher.host matcher.decredvoting.com:8475 --maxtime 36000`
