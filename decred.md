@@ -14,6 +14,15 @@
 - https://slack.decred.org/
 	- Discuss and coordinate ticketsplitting on the #ticket_splitting channel
 
+## Building The Splitter
+
+```
+go build ./cmd/...
+bin/build-buyer-linux.sh
+```
+
+## Using The Splitter
+
 taken from a user guide posted to the Decred Slack:
 
 The following instructions are for users of Decrediton and will walk you through getting setup for ticket splitting. To participate in ticket splitting, you must have:
